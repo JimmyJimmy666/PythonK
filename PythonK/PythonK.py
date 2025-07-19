@@ -103,3 +103,6 @@ class PK():
         @staticmethod
         def getUrl(url):
             return urllib.request.urlopen(url).read().decode("UTF-8")
+        @staticmethod
+        def downloadFile(url, path):
+            urllib.request.urlretrieve(url, path)
