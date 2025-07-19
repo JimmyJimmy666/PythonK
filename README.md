@@ -3,7 +3,7 @@
 This is a python lib.It is used to simplify the code.The code for the lib is neat.
 
 ## 安装 (Installation)
-您应该使用“pip install PythonK”来下载这个库。
+您应该解压它；然后使用cmd的"cd xx"选定目录文件夹；最后，输入"python setup.py install"解释，即可完成安装。
 You should use: "pip install PythonK" to installation this lib.
 
 ## 使用示例(Usage examples)
