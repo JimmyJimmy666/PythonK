@@ -57,7 +57,7 @@ class PK():
             with open(path, type, encoding=format) as f:
                 f.write(text)
         @staticmethod
-        def Path():
+        def getPath():
             return pathlib.Path(inspect.stack()[1].filename).parent.resolve()
         
     class string():
