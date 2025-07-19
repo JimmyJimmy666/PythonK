@@ -11,3 +11,4 @@ PK.file.Read(r"D:\PK\text_test.txt")
 
 ### Cmd直接下载命令(Cmd directly download the command)
 curl -o PythonK.zip https://github.com/JimmyJimmy666/PythonK/archive/refs/heads/main.zip
+PS:此命令需要管理员权限。(This command requires administrator privileges.)
