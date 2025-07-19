@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PythonK"
+version = "1.0.0"
+description = "A useful toolkit"
+readme = "README.md"
+authors = [
+    { name="NAK", email="18114055256@163.com" }
+]
+license = { file="LICENSE" }
+requires-python = ">=3.6"
+dependencies = []
